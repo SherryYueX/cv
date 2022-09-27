@@ -1,0 +1,25 @@
+body {
+  background-color: #DEEEE8;
+  color: #3F4E4F;
+  font-size: 16px;
+}
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-top-color: #7E7474;
+  border-width: 6px;
+  width: 7%;
+}
+h1, h3, h4 {
+  color: #513252;
+}
+img {
+  height: 150px;
+}
+thead th {
+  letter-spacing: 1px;
+  font-family: monospace;
+}
+td, tr{
+  padding: 12px;
+}
